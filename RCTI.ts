@@ -5,3 +5,7 @@
 #EXT-X-TARGETDURATION:12
 #EXTINF:9.600000,
 https://spmid.net:443/play/oosABM1mbNSd4Ca16ZrDKzjPz5ItYoYOVBuTDJvQCHE
+#EXTINF:9.600000,
+https://spmid.net:443/play/oosABM1mbNSd4Ca16ZrDKzjPz5ItYoYOVBuTDJvQCHE
+#EXTINF:9.600000,
+https://spmid.net:443/play/oosABM1mbNSd4Ca16ZrDKzjPz5ItYoYOVBuTDJvQCHE
