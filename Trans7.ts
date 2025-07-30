@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:22
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:12
+#EXTINF:9.600000,
+https://spmid.net:443/play/oosABM1mbNSd4Ca16ZrDK_End6mbahHke1dymZ5lh8I
+#EXTINF:9.600000,
+https://spmid.net:443/play/oosABM1mbNSd4Ca16ZrDK_End6mbahHke1dymZ5lh8I
+#EXTINF:9.600000,
+https://spmid.net:443/play/oosABM1mbNSd4Ca16ZrDK_End6mbahHke1dymZ5lh8I
